@@ -27,7 +27,7 @@
       - ⚡ Fun fact: **I can spend hours fine-tuning prompts just to squeeze out a slightly better response from an LLM 😅**
     </td>
     <td width="30%">
-      <img align="right" alt="Coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+      <img align="right" alt="Coding" src="https://giffiles.alphacoders.com/361/36116.gif" />
     </td>
   </tr>
 </table>

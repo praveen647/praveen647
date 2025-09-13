@@ -99,9 +99,11 @@
 ### 🔥 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen647&show_icons=true&locale=en&theme=tokyonight" alt="kishoremuruganantham" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen647&theme=tokyonight" alt="kishoremuruganantham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen647&show_icons=true&locale=en&theme=tokyonight" alt="praveenkumar" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen647&theme=tokyonight" alt="praveenkumar" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen647&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kishoremuruganantham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen647&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="praveenkumar" />
 </p>

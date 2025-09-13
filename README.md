@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="100%"/>
   
   <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
   <h3 align="center">AI Engineer focused on LLM Fine-Tuning, RAG, and Agentic Systems.</h3>

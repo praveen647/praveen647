@@ -16,15 +16,15 @@
     <td valign="top" width="70%">
      I'm an AI enthusiast and developer passionate about exploring the limitless possibilities of Artificial Intelligence, Machine Learning, and Generative AI.
       <br><br>
-      - 🔭 I’m currently working on **projects involving Google Agent Development Kit, MCP Servers, and RAG pipelines** to build intelligent applications.  
+      - 🔭 I’m currently working on <b>projects involving Google Agent Development Kit, MCP Servers, and RAG pipelines</b> to build intelligent applications.  
       <br>
-      - 🌱 I’m currently learning everything about **Large Language Models (LLMs)** and **Agentic Workflows**.
+      - 🌱 I’m currently learning everything about <b>Large Language Models (LLMs)</b> and <b>Agentic Workflows</b>.
       <br>
-      - 👯 I’m looking to collaborate on open-source projects related to **Generative AI or Data Visualization**.
+      - 👯 I’m looking to collaborate on open-source projects related to <b>Generative AI or Data Visualization</b>.
       <br>
-      - 📫 How to reach me: **rpraveenkumar608@gmail.com**
+      - 📫 How to reach me: <b>rpraveenkumar608@gmail.com</b>
       <br>
-      - ⚡ Fun fact: **I can spend hours fine-tuning prompts just to squeeze out a slightly better response from an LLM 😅**
+      - ⚡ Fun fact: <b>I can spend hours fine-tuning prompts just to squeeze out a slightly better response from an LLM 😅</b>
     </td>
     <td width="30%">
       <img align="right" alt="Coding" src="https://giffiles.alphacoders.com/361/36116.gif" />
